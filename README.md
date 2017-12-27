@@ -1,2 +1,0 @@
-# LKM
-Lembaga Kesehatan Masyarakat
